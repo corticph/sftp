@@ -9,7 +9,7 @@
 - [`debian`, `latest` (*Dockerfile*)](https://github.com/atmoz/sftp/blob/master/Dockerfile) ![Docker Image Size (debian)](https://img.shields.io/docker/image-size/atmoz/sftp/debian?label=debian&logo=debian&style=plastic)
 - [`alpine` (*Dockerfile*)](https://github.com/atmoz/sftp/blob/master/Dockerfile-alpine) ![Docker Image Size (alpine)](https://img.shields.io/docker/image-size/atmoz/sftp/alpine?label=alpine&logo=Alpine%20Linux&style=plastic)
 
-# Corti history
+# Corti container history
 
 - corti.azurecr.io/platform/sftp:v1.0.0 = atmoz/sftp:latest pushed on April 19th, 2021 at 8:08 am
  
